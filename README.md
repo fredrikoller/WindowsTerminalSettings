@@ -31,6 +31,8 @@ Install the Cascadia Code PL font from their [Release page](https://github.com/m
   - node
   - dotnet
   - git
+  - Pulumi
+  
 
 - Visual Studio 2019 Community
 - RememBear
