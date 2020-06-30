@@ -19,3 +19,25 @@ Set-Theme Paradox
 ```
 
 Install the Cascadia Code PL font from their [Release page](https://github.com/microsoft/cascadia-code/releases).
+
+
+## Applications to install
+- VS Code
+  - ESLint 
+  - ES7 React Snippets
+  - Material Icon Theme
+
+- Chocolatey
+  - node
+  - dotnet
+  - git
+
+- Visual Studio 2019 Community
+- RememBear
+- PowerToys
+
+- Microsoft Store
+  - Windows Terminal
+  - Pride 2020 FLags
+
+
