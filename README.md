@@ -32,6 +32,7 @@ Install the Cascadia Code PL font from their [Release page](https://github.com/m
   - ```choco install dotnetcore-sdk```
   - ```choco install git```
   - ```choco install pulumi```
+  - ```choco install azure-functions-core-tools```
   
 
 - Visual Studio 2019 Community
