@@ -28,10 +28,10 @@ Install the Cascadia Code PL font from their [Release page](https://github.com/m
   - Material Icon Theme
 
 - Chocolatey
-  - node
-  - dotnet
-  - git
-  - Pulumi
+  - ```choco install nodejs```
+  - ```choco install dotnetcore-sdk```
+  - ```choco install git```
+  - ```choco install pulumi```
   
 
 - Visual Studio 2019 Community
