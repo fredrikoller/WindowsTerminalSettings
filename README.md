@@ -41,6 +41,6 @@ Install the Cascadia Code PL font from their [Release page](https://github.com/m
 
 - Microsoft Store
   - Windows Terminal
-  - Pride 2020 FLags
+  - Pride 2020 Flags
 
 
