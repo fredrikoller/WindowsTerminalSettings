@@ -22,25 +22,26 @@ Install the Cascadia Code PL font from their [Release page](https://github.com/m
 
 
 ## Applications to install
-- VS Code
-  - ESLint 
-  - ES7 React Snippets
-  - Material Icon Theme
 
 - Chocolatey
+  - ```choco install git```
   - ```choco install nodejs```
   - ```choco install dotnetcore-sdk```
-  - ```choco install git```
   - ```choco install pulumi```
   - ```choco install azure-functions-core-tools```
+  - ```choco install vscode```
   - ```choco install visualstudio2019community```  
 
-- Visual Studio 2019 Community
-- RememBear
-- PowerToys
 
 - Microsoft Store
   - Windows Terminal
   - Pride 2020 Flags
 
+- RememBear
+- PowerToys
+
+- VS Code
+  - ESLint 
+  - ES7 React Snippets
+  - Material Icon Theme
 
