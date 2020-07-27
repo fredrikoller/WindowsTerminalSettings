@@ -31,6 +31,7 @@ Install the Cascadia Code PL font from their [Release page](https://github.com/m
   - ```choco install azure-functions-core-tools```
   - ```choco install vscode```
   - ```choco install visualstudio2019community```  
+  - ```choco install azure-cli```
 
 
 - Microsoft Store
