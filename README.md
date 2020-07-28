@@ -34,6 +34,9 @@ Install the Cascadia Code PL font from their [Release page](https://github.com/m
   - ```choco install azure-cli```
 
 
+- Azure Storage Manager
+- CosmosDB Emulator
+
 - Microsoft Store
   - Windows Terminal
   - Pride 2020 Flags
