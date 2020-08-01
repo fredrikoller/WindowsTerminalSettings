@@ -23,7 +23,7 @@ Install the Cascadia Code PL font from their [Release page](https://github.com/m
 
 ## Applications to install
 
-Install gsudo
+Install [gsudo](https://github.com/gerardog/gsudo)
 
 - Chocolatey
   - ```choco install git```
