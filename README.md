@@ -23,6 +23,8 @@ Install the Cascadia Code PL font from their [Release page](https://github.com/m
 
 ## Applications to install
 
+Install gsudo
+
 - Chocolatey
   - ```choco install git```
   - ```choco install nodejs```
@@ -32,6 +34,7 @@ Install the Cascadia Code PL font from their [Release page](https://github.com/m
   - ```choco install vscode```
   - ```choco install visualstudio2019community```  
   - ```choco install azure-cli```
+  - ```choco install postman```
 
 
 - Azure Storage Manager
