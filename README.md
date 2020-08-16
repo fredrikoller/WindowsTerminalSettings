@@ -50,7 +50,7 @@ Install [gsudo](https://github.com/gerardog/gsudo)
 * RememBear
 * PowerToys
 
-* VS Code
+* VS Code with the following extensions
   - ESLint
   - ES7 React Snippets
   - Material Icon Theme
