@@ -28,21 +28,22 @@ Install the Cascadia Code PL font from their [Release page](https://github.com/m
 Install [gsudo](https://github.com/gerardog/gsudo)
 
 - Chocolatey
-  - ```choco install git```
-  - ```choco install nodejs```
-  - ```choco install dotnetcore-sdk```
-  - ```choco install pulumi```
-  - ```choco install azure-functions-core-tools```
-  - ```choco install vscode```
-  - ```choco install visualstudio2019community```  
-  - ```choco install azure-cli```
-  - ```choco install postman```
+  - `choco install git`
+  - `choco install nodejs`
+  - `choco install dotnetcore-sdk`
+  - `choco install pulumi`
+  - `choco install azure-functions-core-tools`
+  - `choco install vscode`
+  - `choco install visualstudio2019community`
+  - `choco install azure-cli`
+  - `choco install postman`
 
 * [Azure Storage Manager](https://azure.microsoft.com/en-us/features/storage-explorer/)
 * [CosmosDB Emulator](https://aka.ms/cosmosdb-emulator)
 * [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sqlallproducts-allversions)
 
 * Microsoft Store
+
   - Windows Terminal
   - Pride 2020 Flags
 
@@ -53,3 +54,25 @@ Install [gsudo](https://github.com/gerardog/gsudo)
   - ESLint
   - ES7 React Snippets
   - Material Icon Theme
+  - Auto Close Tag
+  - Auto Rename Tag
+  - Azure Account
+  - Azure Functions
+  - Babel JavaScript
+  - Bracket Pair Colorizer 2
+  - C#
+  - EditorConfig
+  - ESLint
+  - Git History
+  - GitHub Pullrequests
+  - GitLens
+  - Import Cost
+  - Jest
+  - Javascript (es6) code snippets
+  - Live Server
+  - Markdown Preview
+  - Prettier
+  - Prisma
+  - React PropTypes
+  - Remote WSL
+  - Version Lens
