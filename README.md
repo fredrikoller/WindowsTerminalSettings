@@ -25,18 +25,21 @@ Install the Cascadia Code PL font from their [Release page](https://github.com/m
 
 ## Applications to install
 
+Install [Chocolatey](https://chocolatey.org/install)
+
 Install [gsudo](https://github.com/gerardog/gsudo)
 
-- Chocolatey
-  - `choco install git`
-  - `choco install nodejs`
-  - `choco install dotnetcore-sdk`
-  - `choco install pulumi`
-  - `choco install azure-functions-core-tools`
-  - `choco install vscode`
-  - `choco install visualstudio2019community`
-  - `choco install azure-cli`
-  - `choco install postman`
+Run `choco-insatll.ps1` to install the following applications:
+  - git
+  - NodeJS
+  - .Net Core
+  - Pulumi
+  - Azure Functions Core Tools
+  - Visual Studio Code
+  - Visual Studio 2019 Community
+  - Azure CLI
+  - Postman
+  - Angular CLI
 
 * [Azure Storage Manager](https://azure.microsoft.com/en-us/features/storage-explorer/)
 * [CosmosDB Emulator](https://aka.ms/cosmosdb-emulator)
@@ -50,29 +53,19 @@ Install [gsudo](https://github.com/gerardog/gsudo)
 * RememBear
 * PowerToys
 
-* VS Code with the following extensions
-  - ESLint
-  - ES7 React Snippets
-  - Material Icon Theme
+* Visual Studio Code extensions
+  - Angular Essentials
   - Auto Close Tag
   - Auto Rename Tag
-  - Azure Account
-  - Azure Functions
-  - Babel JavaScript
   - Bracket Pair Colorizer 2
   - C#
-  - EditorConfig
-  - ESLint
   - Git History
   - GitHub Pullrequests
   - GitLens
   - Import Cost
-  - Jest
   - Javascript (es6) code snippets
   - Live Server
   - Markdown Preview
   - Prettier
-  - Prisma
-  - React PropTypes
   - Remote WSL
   - Version Lens
